@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1,Казахстан International
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1,Казахстан Актау
+http://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1,Казахстан Актобе
+http://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1,Казахстан Атырау
+http://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1,Казахстан Караганда
+http://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1,Казахстан Кокшетау
+http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1,Казахстан Костанай
+http://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1,Казахстан Кызылорда
+http://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1,Казахстан Павлодар
+http://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1,Казахстан Петропавловск
+http://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1,Казахстан Семей
+http://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1,Казахстан Тараз
+http://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1,Казахстан Уральск
+http://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1,Казахстан Усть-Каменогорск
+http://stream.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1,Казахстан Шымкент
+http://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:0,Казахстан
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2210/index.m3u8
+#EXTINF:0,КТК
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2211/index.m3u8
+#EXTINF:0,Первый канал Евразия
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2212/index.m3u8
+#EXTINF:0,Седьмой канал
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2213/index.m3u8
+#EXTINF:0,Astana TV
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2214/index.m3u8
+#EXTINF:0,Jibek Joly TV
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2215/index.m3u8
+#EXTINF:0,El Arna KZ
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2216/index.m3u8
+#EXTINF:0,31 канал KZ
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2217/index.m3u8
+#EXTINF:0,НТК
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2218/index.m3u8
+#EXTINF:0,СТВ KZ
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2219/index.m3u8
+#EXTINF:0,Turan TV
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2220/index.m3u8
+#EXTINF:0,5 канал KZ
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2221/index.m3u8
+#EXTINF:0,Казахстан Караганда
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2222/index.m3u8
+#EXTINF:0,Хабар
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2223/index.m3u8
+#EXTINF:0,Qazsport KZ
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2224/index.m3u8
+#EXTINF:0,Хабар 24
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2225/index.m3u8
+#EXTINF:0,Talim TV
+#EXTGRP:қазақстан
+http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2229/index.m3u8
